@@ -17,7 +17,7 @@ Dqueue-App is a web app based on MERN stack which intends to solve the issue of 
 ### So starting with the Use cases here are links followed by the deployed Web-app
 ## [Live- demo](https://d-queue.herokuapp.com/)
 ## [Presentation](https://drive.google.com/file/d/184Pq3uG9BEBGNsGoP0SkSW82reiL4CSm/view)
-## [Intreoductory video- Phase-1](https://www.youtube.com/watch?v=de2SLObCJwU)
+## [Introductory video- Phase-1](https://www.youtube.com/watch?v=de2SLObCJwU)
 ## [Prototyping on Figma](https://www.figma.com/file/iODgMuckYLtuDI2fbMPcmy/Bar-Code-Scan-App-(Community)?node-id=0%3A1)
 
 
