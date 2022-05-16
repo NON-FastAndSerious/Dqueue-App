@@ -162,9 +162,14 @@ You can find an example implementation at [example.html](./example.html).
 ```https://dequeserver.herokuapp.com```
 
 # In case of any queries, contact:
+
 [Steve Rogers ;)](https://github.com/shashank-taliwal)
+
 [Agraj Aggrawal](https://github.com/agrajagrawal)
+
 [Vaibhav Shukla](https://github.com/raxvab)
+
 [Priyanshu Rathore](https://github.com/priyanshu-r19)
+
 [Rupesh Nandan Yadav](https://github.com/rnyadav3)
 
