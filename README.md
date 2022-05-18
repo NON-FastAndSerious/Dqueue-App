@@ -53,3 +53,7 @@ Dqueue-App is a web app based on MERN stack which intends to solve the issue of 
 
 [Rupesh Nandan Yadav](https://github.com/rnyadav3)
 
+[Vivek Pandey](https://github.com/vivek433)
+
+[Mohd Safe Lari](https://github.com/saif9972)
+
