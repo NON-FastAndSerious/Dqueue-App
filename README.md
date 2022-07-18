@@ -43,7 +43,7 @@ Dqueue-App is a web app based on MERN stack which intends to solve the issue of 
 
 # In case of any queries, contact:
 
-[Steve Rogers ;)](https://github.com/shashank-taliwal)
+[Shashank Taliwal)](https://github.com/shashank-taliwal)
 
 [Agraj Agrawal](https://github.com/agrajagrawal)
 
