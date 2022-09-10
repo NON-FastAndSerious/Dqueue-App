@@ -23,7 +23,7 @@ Dqueue-App is a web app based on MERN stack which intends to solve the issue of 
 
 # Backend
 
-## Welcome to DQ-API
+## Welcome to DQ-API (An API built for the project under Hack-en-counter hackathon organized by NowOrNever Community)
 
 #### For documentation on using the routes visit [Documentation](https://dequeserver.herokuapp.com/api-docs/)
 
